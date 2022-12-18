@@ -1,3 +1,9 @@
+### 🔶 나의 [N O T I O N 1 🔶](https://foremost-tellurium-295.notion.site/ffe3346f827f4a6b9157bfabc8900397?v=8265542b5cef4211b87a340f500c5f56)
+### 🔶 나의 [N O T I O N 2 🔶](https://foremost-tellurium-295.notion.site/IT-9c7511b794f64dfb8c7cb16840236250)
+### 🔶 나의 [B L O G 🔶](https://joj1043.tistory.com/)
+
+
+
 [LINK]:https://gist.github.com/ihoneymon/652be052a0727ad59601
 ### MD 사용법 [LINK]
 ##### 참조[LINK](https://github.com/dream-ellie/markdown)
